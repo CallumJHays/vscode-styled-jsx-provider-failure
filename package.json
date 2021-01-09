@@ -1,0 +1,17 @@
+{
+  "name": "vscode-styled-jsx-provider-failure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "postcss": "^8.2.3",
+    "postcss-scss": "^3.0.4",
+    "react": "^17.0.1",
+    "styled-jsx": "^3.3.2"
+  }
+}
